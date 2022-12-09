@@ -1,0 +1,18 @@
+FRONTEND
+//user
+trang chủ
+thể loại
+chi tiết sản phẩm
+//admin
+login
+ql thể loại
+ql sản phẩm
+
+BACKEND
+//admin
+login
+thêm, sửa, xóa sp
+thêm, sửa, xóa thể loại
+đăng xuất
+//user
+tìm kiếm
